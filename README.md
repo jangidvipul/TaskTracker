@@ -8,10 +8,13 @@ A simple Task Tracker App built with React and Vite.
 ## 🚀 Features
 
 - Add new tasks  
-- View tasks in a list  
+- Drag & drop between columns  
 - Delete tasks  
 - Responsive design  
-
+- **Three-column Kanban board**:
+  - ✅ To Do  
+  - ⚡ In Progress  
+  - 🎯 Done  
 ---
 
 ## 🛠️ Tech Stack
